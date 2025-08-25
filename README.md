@@ -1,8 +1,6 @@
 ### Hi, I’m Cleves 👋
 
-An explorer passionate about innovative interfaces and interaction design.
-
-Recently, I've been focusing on building Zenless Zone Zero UI interactions using Web technologies, eager to create things that truly resonate.
+I am a web developer who loves creating. I always have countless ideas and am working hard to bring them to life.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleves0315/cleves0315/output/github-contribution-grid-snake-dark.svg">
