@@ -1,6 +1,6 @@
 ### Hi, I’m Cleves 👋
 
-I am a web developer who loves creating. I always have countless ideas and am working hard to bring them to life.
+I am a web developer who loves to create. I always have countless ideas and are working to achieve them.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleves0315/cleves0315/output/github-contribution-grid-snake-dark.svg">
